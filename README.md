@@ -1,9 +1,3 @@
-[![sfv4_00000](https://github.com/serverless/serverless/assets/2752551/6cf62477-7834-49dc-9a41-f71b76d70a18)](https://github.com/serverless/serverless/tree/v4.0)
-
-
-<h1></h1>
-<br/>
-
 [![Serverless Application Framework AWS Lambda API Gateway](https://s3.amazonaws.com/assets.github.serverless/readme-serverless-framework.gif)](https://serverless.com)
 
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
@@ -22,7 +16,7 @@
 
 The Serverless Framework is a command-line tool with an easy and approachable YAML syntax to deploy both your code and cloud infrastructure needed to make tons of serverless application use-cases. It's a multi-language framework that supports Node.js, Typescript, Python, Go, Java, and more. It's also completely extensible via over 1,000 plugins which add more serverless use-cases and workflows to the Framework.
 
-Actively maintained by [Serverless Inc](https://www.serverless.com).
+This fork is maintained by RightMove Health. NOTE: This fork only updates and maintains Serverless v3 as it is the last truly open-source version of this framework.
 
 <br/>
 

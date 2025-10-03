@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.40.1](https://github.com/serverless/serverless/compare/v3.40.0...v3.40.1) (2025-10-02)
+
+- Add support for nodejs22.x runtime across the serverless environment ([4a3b53f](https://github.com/rightmovehealth/serverless/commit/4a3b53f0f70b64a407a1568559fc7a7be0cc4d0f))
+
 ## [3.40.0](https://github.com/serverless/serverless/compare/v3.39.0...v3.40.0) (2024-12-17)
 
 ### Bug Fixes
