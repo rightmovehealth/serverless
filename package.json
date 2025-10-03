@@ -1,6 +1,6 @@
 {
   "name": "serverless",
-  "version": "3.40.1",
+  "version": "3.40.2",
   "description": "Serverless Framework - Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more",
   "preferGlobal": true,
   "homepage": "https://serverless.com/framework/docs/",
@@ -114,7 +114,7 @@
     "sinon": "^13.0.2",
     "sinon-chai": "^3.7.0",
     "standard-version": "^9.5.0",
-    "xml2js": "^0.4.23"
+    "xml2js": "0.6.2"
   },
   "eslintConfig": {
     "extends": "@serverless/eslint-config/node/12",
