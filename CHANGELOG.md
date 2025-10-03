@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.40.2](https://github.com/serverless/serverless/compare/v3.40.1...v3.40.2) (2025-10-02)
+
+- Fixed AWS Plugin Maven depenencies, xml2js dependency security patches ([46e549c](https://github.com/rightmovehealth/serverless/tree/46e549c598b130df5298a6686521733a7f5cd5a1))
+- Fixed junit Maven depenency security patch ([919d0bd](https://github.com/rightmovehealth/serverless/tree/919d0bd0014cb7151f14f9ef24ef460dbef9f754))
+
 ## [3.40.1](https://github.com/serverless/serverless/compare/v3.40.0...v3.40.1) (2025-10-02)
 
 - Add support for nodejs22.x runtime across the serverless environment ([4a3b53f](https://github.com/rightmovehealth/serverless/commit/4a3b53f0f70b64a407a1568559fc7a7be0cc4d0f))
